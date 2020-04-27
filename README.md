@@ -1,2 +1,2 @@
 # IFGP
-Igredients for a good pasta
+Ingredients for a good pasta
